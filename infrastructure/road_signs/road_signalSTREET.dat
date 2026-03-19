@@ -1,0 +1,13 @@
+# road_signalSTREET
+obj=roadsign
+name=road_signalSTREET
+copyright=mark
+waytype=road
+intro_year=2000
+cost=500
+maintenance=500
+min_speed=0
+single_way=0
+Image[N,S,W,E,NW,SE,SW,NE][0-3]=road_signalSTREET.<$1>.<$0>
+Icon=> road_signalSTREET.0.8
+Cursor=road_signalSTREET.0.9

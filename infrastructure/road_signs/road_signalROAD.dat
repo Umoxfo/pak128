@@ -1,0 +1,13 @@
+# road_signalROAD
+obj=roadsign
+name=road_signalROAD
+copyright=mark, Umoxfo
+waytype=road
+intro_year=2000
+cost=500
+maintenance=500
+single_way=0
+min_speed=0
+Image[N,S,W,E,NW,SE,SW,NE][0-3]=road_signalROAD.<$1>.<$0>
+Icon=> road_signalROAD.0.8
+Cursor=road_signalROAD.0.9
